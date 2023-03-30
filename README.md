@@ -1,5 +1,6 @@
-# c64_ghidra
+# c128_ghidra
 
-This repo contains Ghidra support files for the analysis of Commodore 64 binaries.
+This repo contains Ghidra support files for the analysis of Commodore 128 binaries.
+It is based on the work by c64cryptoboy - c64cryptoboy/c64_ghidra (https://github.com/c64cryptoboy/c64_ghidra).
 
-These are the code examples I wrote for my talk "*Introduction to Ghidra: Analysis of two 1980s floppy disk protection schemes*", here: https://www.youtube.com/watch?v=3wW1una5Pgg
+I am working on modifying it to support c128 instead of c64. Hopefully we can merge the two projects later.
